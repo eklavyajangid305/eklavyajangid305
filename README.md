@@ -98,27 +98,6 @@ class EklavyaJangid:
 
 ---
 
-## Featured Project
-
-### [Docster](https://github.com/eklavyajangid305/docster) — AI-Powered Documentation Generator
-> An **agentic GenAI tool** that reads an entire codebase and writes the docs for you.
-
-- Analyzes repositories and auto-generates structured **README / documentation** using the **Groq API**.
-- Built an **AI code-summarization + context-engineering pipeline** for real codebase understanding.
-- Served through a **FastAPI** backend for fast, scalable inference.
-
-`Python` · `FastAPI` · `Groq API` · `Prompt Engineering` · `Agentic AI`
-
-<p align="left">
-  <a href="https://github.com/eklavyajangid305/docster">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eklavyajangid305&repo=docster&theme=tokyonight&hide_border=true" alt="docster repo card"/>
-  </a>
-</p>
-
-> More experiments and builds live in my **[pinned repositories](https://github.com/eklavyajangid305?tab=repositories)**
-
----
-
 ## Certifications & Achievements
 
 - **Winner — NSSAFE 2025, IEEE Ignite** (Research Paper Competition)
@@ -137,10 +116,6 @@ class EklavyaJangid:
 <img height="165" src="https://streak-stats.demolab.com?user=eklavyajangid305&theme=tokyonight&hide_border=true" alt="github streak"/>
 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eklavyajangid305&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top languages"/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=eklavyajangid305&theme=tokyo-night&hide_border=true&area=true" alt="activity graph"/>
-
-<img width="95%" src="https://github-profile-trophy.vercel.app/?username=eklavyajangid305&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=5&margin-h=5" alt="trophies"/>
 
 </div>
 
