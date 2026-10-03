@@ -12,7 +12,7 @@
 &nbsp;
 <img src="https://img.shields.io/badge/Open%20to-AI%20%2F%20GenAI%20Roles-22c55e?style=for-the-badge" alt="open to work"/>
 &nbsp;
-<a href="https://www.linkedin.com/in/eklavya-jangid"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
+<a href="https://www.linkedin.com/in/eklavya-jangid-b17076333/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
 
 </div>
 
@@ -125,7 +125,7 @@ class EklavyaJangid:
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/eklavya-jangid"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
+<a href="https://www.linkedin.com/in/eklavya-jangid-b17076333/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
 <a href="mailto:eklavyajangid305@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
 <a href="https://github.com/eklavyajangid305"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github"/></a>
 
