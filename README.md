@@ -8,11 +8,18 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=600&lines=GenAI+%26+LLM+Engineer+%F0%9F%A4%96;Building+Agentic+AI+Systems+from+scratch;RAG+%E2%80%A2+LangChain+%E2%80%A2+LangGraph+%E2%80%A2+FastAPI;Turning+prompts+into+production+products+%E2%9C%A8)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=eklavyajangid305&style=for-the-badge&color=A855F7&label=PROFILE+VIEWS" alt="profile views"/>
-&nbsp;
 <img src="https://img.shields.io/badge/Open%20to-AI%20%2F%20GenAI%20Roles-22c55e?style=for-the-badge" alt="open to work"/>
 &nbsp;
+<img src="https://img.shields.io/badge/Focus-Agentic%20AI%20%26%20LLMs-A855F7?style=for-the-badge" alt="focus"/>
+&nbsp;
 <a href="https://www.linkedin.com/in/eklavya-jangid-b17076333/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
+
+<br><br>
+
+<!-- animated icon strip -->
+<a href="https://github.com/eklavyajangid305">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,sklearn,opencv,docker,mongodb,redis,postman,git,github,linux,cpp&perline=12" alt="skill icons"/>
+</a>
 
 </div>
 
